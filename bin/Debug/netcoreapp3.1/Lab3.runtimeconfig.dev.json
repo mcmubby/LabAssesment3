@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zegards\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zegards\\.nuget\\packages"
+    ]
+  }
+}
